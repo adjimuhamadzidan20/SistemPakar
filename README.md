@@ -1,1 +1,1 @@
-# Sistem Pakar Backward Chaining
+# Sistem Pakar Penyakit Seksual - Backward Chaining
